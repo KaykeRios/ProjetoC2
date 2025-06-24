@@ -130,7 +130,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "C:\\Users\\KAKA\\Desktop\\projeto\\generated\\prisma",
+      "value": "C:\\Users\\KAKA\\Desktop\\uns projetos ae\\projeto\\generated\\prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -144,11 +144,11 @@ const config = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "C:\\Users\\KAKA\\Desktop\\projeto\\prisma\\schema.prisma",
+    "sourceFilePath": "C:\\Users\\KAKA\\Desktop\\uns projetos ae\\projeto\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
-    "rootEnvPath": "../../.env",
+    "rootEnvPath": null,
     "schemaEnvPath": "../../.env"
   },
   "relativePath": "../../prisma",
@@ -158,6 +158,7 @@ const config = {
     "db"
   ],
   "activeProvider": "sqlite",
+  "postinstall": false,
   "inlineDatasources": {
     "db": {
       "url": {

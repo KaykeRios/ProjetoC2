@@ -1,14 +1,16 @@
 {
   "dependencies": {
-    "@prisma/client": "^6.8.2",
+    "@prisma/client": "^6.10.1",
     "express": "^5.1.0",
     "node": "^22.16.0",
     "package": "^1.0.1",
     "package.json": "^0.0.0"
   },
   "devDependencies": {
+    "@types/express": "^5.0.3",
     "@types/node": "^22.15.26",
     "prisma": "^6.8.2",
+    "ts-node": "^10.9.2",
     "tsx": "^4.19.4",
     "typescript": "^5.8.3"
   },
